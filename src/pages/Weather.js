@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Card } from 'antd';
+import * as action from '../state/Weather/actions';
 
 const { Meta } = Card;
 
